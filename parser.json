@@ -1,7 +1,7 @@
 {
   "lang": "ocaml_interface",
-  "url": "https://github.com/tree-sitter/tree-sitter-ocaml",
   "semver": false,
   "parser_version": "5a979b3ec7f1fe990b8e8c4412294a0cf7228e45",
-  "location": "grammars/interface"
+  "location": "grammars/interface",
+  "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
 }
